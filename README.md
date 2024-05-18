@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.2 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE:3.4.24 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+### Name:JESU SMARTIA A
+### Register Number:212223110016
 
-### Name:
-### Register Number:
+![EXP6 1](https://github.com/jesu-smartia05/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148514819/215a5168-3bc8-4ead-b8d8-fcf64e586a21)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
